@@ -16,7 +16,7 @@ const Navbar = () => {
           to="/" 
           className='flex items-center gap-2'
           onClick={() => {
-            setActive = ("");
+            setActive("");
             window.scrollTo(0,0) //scroll to the top of the page
           }}
         >
