@@ -1,7 +1,7 @@
 {
   "homepage": "https://angieprog.github.io/threeD-portfolio/",
   "name": "portfolio3d",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
